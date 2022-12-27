@@ -4,9 +4,9 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">Korea University</h2>
+<h2 align="center">Seunghyun Park</h2>
 <h3 align="center">*^^*sophomore*^^*</h3>
-<h4 align="center">️️❤️ Seunghyun Park</h4>
+<h4 align="center">️️❤️ Korea University</h4>
 <h4 align="center">❤️ KU sis CS 21</h4>
 <h4 align="center">❤️</h4>
 
