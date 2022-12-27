@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff"/>
   </a>
   <br>
-  <a href="mailto:kidw0124@naver.com" target="_blank">
+  <a href="mailto:kmasolo@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/kmasolo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
 </p>
