@@ -53,7 +53,7 @@
 <br>
   <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=Wireshark&color=1679A7"/>
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032"/>
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717)](https://github.com/seunghyun-24"/>
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717"/>
 <br>
   <img src="https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=Slack&color=4A154B"/>
   <img src="https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=Notion&color=000000"/>
