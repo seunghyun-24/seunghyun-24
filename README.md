@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&color=0078D6"/>
   <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=E95420"/>
   <img src="https://img.shields.io/badge/OS-Linux-information?style-flat&logo=Linux&color=fcc624"/>
+  <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&color=000000"/>
 <br>
   <img src="https://img.shields.io/badge/VM-Virtual%20Box-informational?style=flat&logo=VirtualBox&color=183A61"/>
   <img src="https://img.shields.io/badge/VM-VMware-informational?style=flat&logo=VMware&color=607078"/>
