@@ -23,6 +23,9 @@
   <a href="mailto:kmasolo@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/kmasolo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
+  <a href="mailto:kmasolo24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/kmasolo24@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
 
 
