@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/>
+   <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Design</h3>
