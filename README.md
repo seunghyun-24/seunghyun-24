@@ -7,7 +7,7 @@
 <h2 align="center">Seunghyun Park</h2>
 <h3 align="center">*^^*junior*^^*</h3>
 <h4 align="center">️️❤️ Korea University</h4>
-<h4 align="center">❤️ KU sis CS 21</h4>
+<h4 align="center">❤️ sis CS 21</h4>
 <h4 align="center">❤️</h4>
 
 <p>&nbsp;</p>
@@ -41,9 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/>
-   <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Design</h3>
@@ -75,7 +74,6 @@
 <br>
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=5C2D91"/>
   <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&color=007ACC"/>
-  <img src="https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse%20IDE&color=2C2255"/>
   <img src="https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&color=F37626"/>
   <img src="https://img.shields.io/badge/IDE-Colab-informational?style=flat&logo=Google%20Colab&color=F9AB00"/>
 </p>
