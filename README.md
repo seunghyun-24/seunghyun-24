@@ -98,19 +98,6 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">📖Github Status📖</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=seunghyun-24&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&count_private=true" alt="seunghyun-24's github stats" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun-24&layout=compact&theme=blue&hide_border=true&langs_count=10" alt="seunghyun-24's language status"/>
-    </td>
-  </tr>
-</table>
-
 
 <!---
 seunghyun-24/seunghyun-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
