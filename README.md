@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 
-<p>
+<p align="center">
   <a href="https://blog.naver.com/kmasolo" target="_blank">
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff"/>
   </a>
@@ -31,7 +31,7 @@
 <h2 align="center">🛠Tech Stack🛠</h2>
 
 <h3 align="center">🧾Languages🧾</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/>
