@@ -5,47 +5,38 @@
 <p>&nbsp;</p>
 
 <h2 align="center">Seunghyun Park </h2>
-<h4 align="center">️️❤️ Korea University</h4>
-<h4 align="center">❤️</h4>
+<h4>✏️ March 2021 - Present : B.S in Korea University</h4>
+  - School of Interdisciplinary Studies <br>
+  - Computer Science and Engineering (1st major) <br>
 
 <p>&nbsp;</p>
 
-<p align="center">
+<p>
   <a href="https://blog.naver.com/kmasolo" target="_blank">
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff"/>
   </a>
   <a href="https://www.instagram.com/_s2mant1cs_" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff"/>
   </a>
-  <br>
-  <a href="mailto:kmasolo@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/kmasolo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <a href="https://x.com/s2mant1cs" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=ffffff"/>
   </a>
-  <a href="mailto:kmasolo24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/kmasolo24@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"/>
   </a>
 </p>
-
 
 <p>&nbsp;</p>
 
 <h2 align="center">🛠Tech Stack🛠</h2>
 
 <h3 align="center">🧾Languages🧾</h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=ffffff"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
-</p>
-
-<h3 align="center">Design</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Frameworks and Tools</h3>
