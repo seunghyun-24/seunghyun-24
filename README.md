@@ -21,9 +21,6 @@
   <a href="https://x.com/s2mant1cs" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=ffffff"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"/>
-  </a>
 </p>
 
 <p>&nbsp;</p>
@@ -39,33 +36,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=ffffff"/>
 </p>
 
-<h3 align="center">Frameworks and Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-pytorch-informational?style=flat&logo=pytorch&color=ee4c2c"/>
-<br>
-  <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=Wireshark&color=1679A7"/>
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032"/>
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717"/>
-<br>
-  <img src="https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=Slack&color=4A154B"/>
-  <img src="https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=Notion&color=000000"/>
-</p>
 
-<h3 align="center">Development System and IDE</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&color=0078D6"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=E95420"/>
-  <img src="https://img.shields.io/badge/OS-Linux-information?style-flat&logo=Linux&color=fcc624"/>
-  <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&color=000000"/>
-<br>
-  <img src="https://img.shields.io/badge/VM-Virtual%20Box-informational?style=flat&logo=VirtualBox&color=183A61"/>
-  <img src="https://img.shields.io/badge/VM-VMware-informational?style=flat&logo=VMware&color=607078"/>
-<br>
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=5C2D91"/>
-  <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&color=007ACC"/>
-  <img src="https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&color=F37626"/>
-  <img src="https://img.shields.io/badge/IDE-Colab-informational?style=flat&logo=Google%20Colab&color=F9AB00"/>
-</p>
 
 <p>&nbsp;</p>
 
@@ -82,7 +53,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">✨Project✨</h2>
-<h3 align="center">will continue...</h3>
+<p align="center">AngelHackseoul 2024 : Social Responsibility Track 3rd prize</p>
 
 
 <p>&nbsp;</p>
