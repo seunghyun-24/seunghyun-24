@@ -11,6 +11,7 @@
 
 <p>&nbsp;</p>
 
+<!---
 <p align="center">
   <a href="https://blog.naver.com/kmasolo" target="_blank">
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff"/>
@@ -22,6 +23,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=ffffff"/>
   </a>
 </p>
+--->
 
 <p>&nbsp;</p>
 
